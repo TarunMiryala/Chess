@@ -1,0 +1,1 @@
+The "Simple Chess Game" project is a Python implementation of a basic chess game. It provides a simple console-based interface where players can make moves by entering coordinates. The game includes the basic movement rules for pawns and knights. The game is structured into classes representing pieces (e.g., Pawn, Knight), the chessboard (Board), and the game itself (Game).
